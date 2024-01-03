@@ -1,4 +1,4 @@
-def call('team8-shared-library'){
+def call(String repoUrl){
 pipeline {
        agent any
        tools {
